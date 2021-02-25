@@ -1,0 +1,3 @@
+McNamee, D., Rangel, A. & O’Doherty, J.P. Category-dependent and category- independent goal-value codes in human ventromedial prefrontal cortex. Nat. Neurosci. 16, 479–485 (2013).
+Raizada, R.D. & Connolly, A.C. What makes different people’s representations alike: neural similarity space solves the problem of across-subject fMRI decoding. J. Cogn. Neurosci. 24, 868–877 (2012).
+Haxby, J.V. et al. A common, high-dimensional model of the representational space in human ventral temporal cortex. Neuron 72, 404–416 (2011).
